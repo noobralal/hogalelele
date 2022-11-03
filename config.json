@@ -1,22 +1,5 @@
 {
-  "bot-account": {
-    "username": "hogalelele",
-    "password": "8989700a",
-    "type": "tlauncher"
-  },
-
-},
-
-  "server": {
-    "ip": "PlayNiko.aternos.me",
-    "port": 32987,
-    "version": "1.16.2"
-  },
-
-},
-
-  "utils": {
-    "auto-auth": {
-      "enabled": true,
-      "password": "8989700a"
-    },
+	"ip":"PlayNiko.aternos.me",
+	"port": "32987",
+	"name": "hogalelele"
+}
