@@ -21,7 +21,7 @@ function getRandomArbitrary(min, max) {
 
 }
 bot.on('login',function(){
-	console.log("Logged In")
+	console.log("8989700a")
 });
 bot.on('time', function() {
     if (connected <1) {
